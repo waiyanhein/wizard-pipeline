@@ -1,6 +1,8 @@
 # wizard-pipeline
 This is the jquery wizard plugin. Fully customizable. JQuery is required to use this plugin.
 
+###Include jquery file and wizard-pipeline.min.js in your html
+
 ###This is the example of html and javascript
 
 ```html
