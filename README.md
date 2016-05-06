@@ -13,7 +13,7 @@ This is the jquery wizard plugin. Fully customizable. JQuery is required to use 
 				<p>Step 1 title</p>
 			</a>
 		</li>
-		<li active=''>
+		<li active='1'>
 			<a href="">
 				<strong>Step 2</strong>
 				<p>Step 2 title</p>
