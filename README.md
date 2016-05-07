@@ -34,6 +34,8 @@ This is the jquery wizard plugin. Fully customizable. JQuery is required to use 
 	</ul>
 ```	
 
+Set active="1" attribute to li element to set current active step. 
+
 	$(function(){
 	     $('.wizard-container').wizardPipeline()
 	})
